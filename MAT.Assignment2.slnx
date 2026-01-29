@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="MAT.Assignment2.UI/MAT.Assignment2.UI.vcxproj" Id="eb368f77-0e20-48b3-96d0-bf73326c51b2" />
+</Solution>
